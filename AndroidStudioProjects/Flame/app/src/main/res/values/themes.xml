@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Flame" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your light theme here. -->
+         <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+    <style name="Theme.Flame" parent="Base.Theme.Flame" />
+</resources>

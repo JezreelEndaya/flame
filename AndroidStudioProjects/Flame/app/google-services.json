@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "601932300152",
+    "firebase_url": "https://alimenta-pet-539e4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "alimenta-pet-539e4",
+    "storage_bucket": "alimenta-pet-539e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601932300152:android:fb16c25265d77ae1dc928d",
+        "android_client_info": {
+          "package_name": "com.example.alimentapet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601932300152-2qn04cs9v9rgccbmuec4qb5o15ijg0rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alimentapet",
+            "certificate_hash": "96bf6fb7cb834c488fc8d70bb589c1afdd684244"
+          }
+        },
+        {
+          "client_id": "601932300152-17ocidm1jp7tli6dkt13pcinb1smfcj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtiF74Zka36MT2N3_VEefxJyCxiFXW0tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601932300152-17ocidm1jp7tli6dkt13pcinb1smfcj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601932300152:android:33bb2b20d13ace03dc928d",
+        "android_client_info": {
+          "package_name": "com.example.flame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601932300152-17ocidm1jp7tli6dkt13pcinb1smfcj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtiF74Zka36MT2N3_VEefxJyCxiFXW0tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601932300152-17ocidm1jp7tli6dkt13pcinb1smfcj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
